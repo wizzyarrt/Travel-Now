@@ -11,7 +11,7 @@
     height: 100vh;
     /* border: 1px solid red; */
     /* background-image: url("/image/cover-img.jpg"); */
-    background-image: url("/image/cover.jpg");
+    background-image: url('../image/cover.jpg');
     background-repeat: top left;
     background-size: cover;
     background-repeat: no-repeat;
