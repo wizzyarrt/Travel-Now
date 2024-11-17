@@ -3,17 +3,17 @@
 *{
     margin: 0px;
     padding: 0px;
-    /* box-sizing: content-box; */
+    box-sizing: content-box;
     font-family: "Chivo", sans-serif;
 }
 .Climax{
-    /* width: 100%; */
+    width: 100%;
     height: 100vh;
-    /* border: 1px solid red; */
-    background-image: url('../image/cover.jpg');
+    background-color: cornflowerblue;
+    background-image: url(image/cover.jpg);
     background-repeat: top left;
     background-size: cover;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
 }
 .header{
     width: 100%;
